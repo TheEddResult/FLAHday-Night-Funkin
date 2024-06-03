@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"expression": "Talk",
+			"text": "",
+			"boxState": "normal",
+			"portrait": "Edd_M",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "Talk",
+			"text": "* ...This isn't the void...",
+			"boxState": "normal",
+			"portrait": "edd",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "Scared",
+			"text": "* WHERE THE HELL AM I???",
+			"boxState": "angry",
+			"portrait": "Edd_S",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "* (huh? a mic?)",
+			"boxState": "normal",
+			"portrait": "edd",
+			"speed": 0.1,
+			"sound": ""
+		},
+		{
+			"expression": "pissed",
+			"text": "Bep Bo!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "demon",
+			"text": "Hello!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "* GAH!",
+			"boxState": "angry",
+			"portrait": "edd_s",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "* Wait, are you Boyfriend.XML?",
+			"boxState": "normal",
+			"portrait": "edd",
+			"speed": 0.045,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "* Eddie said something about you dragging him into your world.",
+			"boxState": "normal",
+			"portrait": "edd",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "Bay, boo babep Edd?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "Wait, you're not Edd?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		}
+	]
+}

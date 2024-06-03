@@ -1,0 +1,151 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-170,
+				-160
+			],
+			"loop": true,
+			"fps": 30,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Adelle Down"
+		},
+		{
+			"offsets": [
+				-170,
+				-160
+			],
+			"loop": true,
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "Adelle Idle"
+		},
+		{
+			"offsets": [
+				-120,
+				-160
+			],
+			"loop": true,
+			"fps": 30,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Adelle Up"
+		},
+		{
+			"offsets": [
+				-120,
+				-160
+			],
+			"loop": true,
+			"fps": 30,
+			"anim": "singUP-loop",
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"name": "Adelle Up"
+		},
+		{
+			"offsets": [
+				-200,
+				-210
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "Hey!",
+			"indices": [],
+			"name": "Adelle Hey"
+		},
+		{
+			"offsets": [
+				-170,
+				-160
+			],
+			"loop": true,
+			"fps": 30,
+			"anim": "singDOWN-loop",
+			"indices": [
+				8,
+				10,
+				13
+			],
+			"name": "Adelle Down"
+		},
+		{
+			"offsets": [
+				-110,
+				-160
+			],
+			"loop": true,
+			"fps": 30,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Adelle Left"
+		},
+		{
+			"offsets": [
+				-210,
+				-160
+			],
+			"loop": true,
+			"fps": 30,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Adelle Right"
+		},
+		{
+			"offsets": [
+				-210,
+				-160
+			],
+			"loop": true,
+			"fps": 30,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				7,
+				8,
+				9
+			],
+			"name": "Adelle Right"
+		},
+		{
+			"offsets": [
+				-110,
+				-160
+			],
+			"loop": true,
+			"fps": 30,
+			"anim": "singLEFT-loop",
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"name": "Adelle Left"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/Adelle",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Adelle",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		145,
+		0
+	],
+	"camera_position": [
+		-300,
+		170
+	],
+	"sing_duration": 3.50000000000001,
+	"scale": 2,
+	"_editor_isPlayer": false
+}

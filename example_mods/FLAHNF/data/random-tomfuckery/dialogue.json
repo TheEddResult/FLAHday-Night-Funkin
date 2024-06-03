@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Vibin_Dialogue_Edd"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Vibin_Dialogue_Edd",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "You know what?"
+		},
+		{
+			"expression": "talk",
+			"text": "Let's do it.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Vibin_Dialogue_Edd"
+		}
+	]
+}

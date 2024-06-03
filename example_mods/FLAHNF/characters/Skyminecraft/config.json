@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				280,
+				390
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Left",
+			"loop": false,
+			"name": "skyminecraft left"
+		},
+		{
+			"offsets": [
+				210,
+				351
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Right",
+			"loop": false,
+			"name": "skyminecraft right"
+		},
+		{
+			"offsets": [
+				260,
+				340
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Up",
+			"loop": false,
+			"name": "skyminecraft up"
+		},
+		{
+			"offsets": [
+				240,
+				200
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Down",
+			"loop": false,
+			"name": "skyminecraft down"
+		},
+		{
+			"offsets": [
+				120,
+				320
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Idle",
+			"loop": true,
+			"name": "skyminecraft idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/skyminecraft",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,40 @@
+{
+	"storyName": "also try friday night crunchin'!",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "rat",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"AdRumorDark",
+		"",
+		"bf"
+	],
+	"songs": [
+		[
+			"rumor",
+			"AdRumor",
+			[
+				50,
+				50,
+				50
+			]
+		],
+		[
+			"Skytch",
+			"Sky",
+			[
+				246,
+				182,
+				4
+			]
+		]	
+	],
+	"weekName": "Bonus_Songs"
+}

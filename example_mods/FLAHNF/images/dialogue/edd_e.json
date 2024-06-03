@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-40,
+		40
+	],
+	"scale": 2.25,
+	"animations": [
+		{
+			"loop_name": "Edd_DL_3 Talk_Emb",
+			"idle_offsets": [
+				-220,
+				-100
+			],
+			"idle_name": "Edd_DL_3 Talk_Emb0007",
+			"anim": "talk_emb",
+			"loop_offsets": [
+				-220,
+				-100
+			]
+		}
+	],
+	"image": "Edd_DL_3"
+}

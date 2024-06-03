@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				220,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Adelle Left"
+		},
+		{
+			"offsets": [
+				50,
+				-210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Adelle Down"
+		},
+		{
+			"offsets": [
+				120,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Adelle Up"
+		},
+		{
+			"offsets": [
+				-60,
+				-130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Adelle Right"
+		},
+		{
+			"offsets": [
+				0,
+				-170
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [],
+			"name": "Adelle Left"
+		},
+		{
+			"offsets": [
+				0,
+				-170
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [],
+			"name": "Adelle Up"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-170
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Adelle Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				100,
+				-100
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Adelle Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Adelle",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Edd",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-250,
+		280
+	],
+	"sing_duration": 3.00000000000001,
+	"scale": 1
+}

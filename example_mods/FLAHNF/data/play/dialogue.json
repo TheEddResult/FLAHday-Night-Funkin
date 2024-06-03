@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "nice"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Edd_m",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "[a small rift flickers onto the stage, and drops another score, titled PLAY]"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Woah, is our world that unstable?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "seems like it."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Edd_s",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "* GODDAMNIT WHY AM I HERE AGAIN??"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I don't know, seems like fate to finish the week with 3 songs."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Edd_s",
+			"boxState": "normal",
+			"expression": "Idle_S",
+			"text": "* ..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Edd_e",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "* Alright, I guess we can finish it."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Cool!"
+		}
+	]
+}

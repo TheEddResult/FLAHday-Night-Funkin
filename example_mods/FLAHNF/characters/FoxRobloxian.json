@@ -1,0 +1,150 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-277,
+				-321
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Mintcraft Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-261,
+				-320
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Mintcraft Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-288,
+				-309
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Mintcraft Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-285,
+				-304
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Mintcraft Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-295,
+				-297
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Mintcraft idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-295,
+				-297
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Mintcraft idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-285,
+				-308
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Mintcraft Left",
+			"indices": [
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-287,
+				-306
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Mintcraft Right",
+			"indices": [
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-285,
+				-311
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Mintcraft Up",
+			"indices": [
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-249,
+				-327
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "Mintcraft Down",
+			"indices": [
+				3,
+				4
+			]
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Mintcraft",
+	"position": [
+		-400,
+		-90
+	],
+	"healthicon": "mint",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 2.00000000000001,
+	"scale": 2,
+	"_editor_isPlayer": false
+}

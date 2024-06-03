@@ -1,0 +1,10 @@
+{
+	"idle_anim": "AdRumor idle",
+	"confirm_anim": "AdRumor up",
+	"position": [
+		165,
+		135
+	],
+	"scale": 1.35,
+	"image": "Menu_AdRumorDark"
+}

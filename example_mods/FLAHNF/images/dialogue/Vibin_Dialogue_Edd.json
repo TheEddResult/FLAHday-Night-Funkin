@@ -1,0 +1,38 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		0
+	],
+	"no_antialiasing": true,
+	"scale": 2.8,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "talking",
+			"idle_name": "idle"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "finished-alt",
+			"loop_name": "talk-alt"
+		}
+	],
+	"image": "Vibin_Dialogue_Edd"
+}

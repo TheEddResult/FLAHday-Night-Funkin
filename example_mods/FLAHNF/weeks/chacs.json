@@ -1,0 +1,26 @@
+{
+	"storyName": "masculine urges",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "bruh",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"himura",
+		""
+	],
+	"songs": [
+		[
+			"stantasm",
+			"fleetstan",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "chachs"
+}

@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				482,
+				480
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "arumor idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				482,
+				480
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "arumor left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				452,
+				480
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "arumor down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				482,
+				480
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "arumor up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				506,
+				480
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "arumor right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/arumor",
+	"position": [
+		-260,
+		-20
+	],
+	"healthicon": "face",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		190,
+		-210
+	],
+	"sing_duration": 4,
+	"scale": 0.65,
+	"_editor_isPlayer": true
+}

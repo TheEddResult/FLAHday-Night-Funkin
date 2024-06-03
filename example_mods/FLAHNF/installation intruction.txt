@@ -1,0 +1,3 @@
+Extract the characters, images and sounds folders to your psych engine!
+
+Have fun!

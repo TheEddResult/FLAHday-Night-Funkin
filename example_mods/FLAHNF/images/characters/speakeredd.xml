@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="speakeredd.png">
+<SubTexture name="speakeredd danceLeft0000" x="785" y="0" width="157" height="272" frameX="-231" frameY="-127" frameWidth="600" frameHeight="600" />
+<SubTexture name="speakeredd danceLeft0001" x="628" y="0" width="157" height="273" frameX="-231" frameY="-126" frameWidth="600" frameHeight="600" />
+<SubTexture name="speakeredd danceLeft0002" x="314" y="286" width="157" height="277" frameX="-231" frameY="-122" frameWidth="600" frameHeight="600" />
+<SubTexture name="speakeredd danceLeft0003" x="0" y="286" width="157" height="279" frameX="-231" frameY="-119" frameWidth="600" frameHeight="600" />
+<SubTexture name="speakeredd danceLeft0004" x="0" y="0" width="157" height="286" frameX="-231" frameY="-112" frameWidth="600" frameHeight="600" />
+<SubTexture name="speakeredd danceLeft0005" x="0" y="0" width="157" height="286" frameX="-231" frameY="-112" frameWidth="600" frameHeight="600" />
+<SubTexture name="speakeredd danceLeft0006" x="0" y="0" width="157" height="286" frameX="-231" frameY="-112" frameWidth="600" frameHeight="600" />
+<SubTexture name="speakeredd danceLeft0007" x="0" y="0" width="157" height="286" frameX="-231" frameY="-112" frameWidth="600" frameHeight="600" />
+<SubTexture name="speakeredd danceRight0000" x="628" y="273" width="157" height="273" frameX="-231" frameY="-126" frameWidth="600" frameHeight="600" />
+<SubTexture name="speakeredd danceRight0001" x="471" y="286" width="157" height="276" frameX="-231" frameY="-123" frameWidth="600" frameHeight="600" />
+<SubTexture name="speakeredd danceRight0002" x="157" y="286" width="157" height="279" frameX="-231" frameY="-119" frameWidth="600" frameHeight="600" />
+<SubTexture name="speakeredd danceRight0003" x="471" y="0" width="157" height="283" frameX="-231" frameY="-115" frameWidth="600" frameHeight="600" />
+<SubTexture name="speakeredd danceRight0004" x="314" y="0" width="157" height="285" frameX="-231" frameY="-113" frameWidth="600" frameHeight="600" />
+<SubTexture name="speakeredd danceRight0005" x="314" y="0" width="157" height="285" frameX="-231" frameY="-113" frameWidth="600" frameHeight="600" />
+<SubTexture name="speakeredd danceRight0006" x="314" y="0" width="157" height="285" frameX="-231" frameY="-113" frameWidth="600" frameHeight="600" />
+<SubTexture name="speakeredd danceRight0007" x="314" y="0" width="157" height="285" frameX="-231" frameY="-113" frameWidth="600" frameHeight="600" />
+<SubTexture name="speakeredd bruh0000" x="157" y="0" width="157" height="286" frameX="-231" frameY="-112" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

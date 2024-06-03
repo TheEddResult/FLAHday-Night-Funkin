@@ -1,0 +1,276 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "",
+			"boxState": "normal",
+			"portrait": "Edd_M",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "* That wasn't half bad...",
+			"boxState": "normal",
+			"portrait": "Edd_E",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Good job babe!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Yeah!"
+		},
+		{
+			"expression": "talk",
+			"text": "But anyway, back to what we were saying earlier...",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "If you're not Edd, then who are you?",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "* Oh, I'm Adelle. A lot of people confuse Eddie and I because we share the same default appearance.",
+			"boxState": "normal",
+			"portrait": "Edd",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "What do you mean by \"default\"?",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "",
+			"boxState": "normal",
+			"portrait": "Edd",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "* Oh yeah, I forgot to mention I'm a shape shifter.",
+			"boxState": "normal",
+			"portrait": "Edd_E",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "pissed",
+			"text": "* Like, \"ooh, now I'm you!\"",
+			"boxState": "normal",
+			"portrait": "bf_adelle",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "shocked",
+			"text": "BEEP?!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "shocked",
+			"text": "WHAT?!",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "oh wait, we've seen this like three times already.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "Scared",
+			"text": "* WAIT, YOU HAVE?!",
+			"boxState": "angry",
+			"portrait": "Edd_S",
+			"speed": 0.03,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "yeah, a lot of people have tried to turn into BF.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "They usually end up having a major difference or something, though.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "Idle_S",
+			"text": "* ",
+			"boxState": "normal",
+			"portrait": "edd_s",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, ok. Nevermind then.",
+			"boxState": "normal",
+			"portrait": "edd_e",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "* (Damn, guess it's back to searching.)",
+			"boxState": "normal",
+			"portrait": "edd",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "* Hold on, lemme write this down...",
+			"boxState": "normal",
+			"portrait": "Edd_e",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "pissed",
+			"text": "boo bup skrr babobur pow?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "pissed",
+			"text": "(Translation: You up for another round?)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "* uh...sure!",
+			"boxState": "normal",
+			"portrait": "Edd_e",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Edd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "* I gotta wait for my portal to recharge anyway, so this seems like a good time killer."
+		},
+		{
+			"expression": "talk",
+			"text": "Wait, you can understand me?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "* I kinda picked up on it when Eddie got back home.",
+			"boxState": "normal",
+			"portrait": "Edd",
+			"speed": 0.045,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "* Wouldn't stop speaking in beeps and boops on his receiver for like a week.",
+			"boxState": "normal",
+			"portrait": "Edd_e",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Aight, let's start it then"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Cue the music!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Edd_e",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "* ..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "...isn't that your job babe?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Oh, right. Sorry!"
+		}
+	]
+}

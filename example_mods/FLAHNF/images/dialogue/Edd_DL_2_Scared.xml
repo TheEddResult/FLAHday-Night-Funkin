@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Edd_DL_2_Scared.png">
+<SubTexture name="Edd_DL_2_Scared Scared0000" x="0" y="0" width="132" height="131" frameX="-10" frameY="-12" frameWidth="150" frameHeight="150" />
+<SubTexture name="Edd_DL_2_Scared Scared0001" x="0" y="0" width="132" height="131" frameX="-10" frameY="-12" frameWidth="150" frameHeight="150" />
+<SubTexture name="Edd_DL_2_Scared Scared0002" x="0" y="131" width="131" height="130" frameX="-11" frameY="-12" frameWidth="150" frameHeight="150" />
+<SubTexture name="Edd_DL_2_Scared Scared0003" x="0" y="131" width="131" height="130" frameX="-11" frameY="-12" frameWidth="150" frameHeight="150" />
+<SubTexture name="Edd_DL_2_Scared Scared0004" x="0" y="261" width="132" height="131" frameX="-10" frameY="-12" frameWidth="150" frameHeight="150" />
+<SubTexture name="Edd_DL_2_Scared Scared0005" x="0" y="261" width="132" height="131" frameX="-10" frameY="-12" frameWidth="150" frameHeight="150" />
+<SubTexture name="Edd_DL_2_Scared Scared0006" x="0" y="392" width="131" height="130" frameX="-11" frameY="-12" frameWidth="150" frameHeight="150" />
+<SubTexture name="Edd_DL_2_Scared Scared0007" x="0" y="392" width="131" height="130" frameX="-11" frameY="-12" frameWidth="150" frameHeight="150" />
+<SubTexture name="Edd_DL_2_Scared Idle_S0000" x="0" y="392" width="131" height="130" frameX="-11" frameY="-12" frameWidth="150" frameHeight="150" />
+<SubTexture name="Edd_DL_2_Scared Idle_S0001" x="0" y="392" width="131" height="130" frameX="-11" frameY="-12" frameWidth="150" frameHeight="150" />
+</TextureAtlas>

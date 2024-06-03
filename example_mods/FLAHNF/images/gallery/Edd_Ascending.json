@@ -1,0 +1,17 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				280,
+				390
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Ascending",
+			"loop": true,
+			"name": "Edd_Ascending Ascending"
+		}
+	]
+	"no_antialiasing": false,
+	"image": "/Edd_Ascending",
+}

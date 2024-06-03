@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-70,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "AdRumor right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				70,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "AdRumor left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				80
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "AdRumor idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				98
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "AdRumor up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				60,
+				-31
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "AdRumor down",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/AdRumor",
+	"position": [
+		-80,
+		100
+	],
+	"healthicon": "AdRumor",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		145,
+		0
+	],
+	"camera_position": [
+		-180,
+		-40
+	],
+	"sing_duration": 3.50000000000001,
+	"scale": 2.5,
+	"_editor_isPlayer": false
+}

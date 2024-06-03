@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Edd_DL_3.png">
+<SubTexture name="Edd_DL_3 Talk_Emb0000" x="0" y="0" width="131" height="131" frameX="-8" frameY="-11" frameWidth="150" frameHeight="150" />
+<SubTexture name="Edd_DL_3 Talk_Emb0001" x="0" y="0" width="131" height="131" frameX="-8" frameY="-11" frameWidth="150" frameHeight="150" />
+<SubTexture name="Edd_DL_3 Talk_Emb0002" x="131" y="0" width="131" height="131" frameX="-8" frameY="-11" frameWidth="150" frameHeight="150" />
+<SubTexture name="Edd_DL_3 Talk_Emb0003" x="131" y="0" width="131" height="131" frameX="-8" frameY="-11" frameWidth="150" frameHeight="150" />
+<SubTexture name="Edd_DL_3 Talk_Emb0004" x="0" y="131" width="129" height="129" frameX="-9" frameY="-12" frameWidth="150" frameHeight="150" />
+<SubTexture name="Edd_DL_3 Talk_Emb0005" x="0" y="131" width="129" height="129" frameX="-9" frameY="-12" frameWidth="150" frameHeight="150" />
+<SubTexture name="Edd_DL_3 Talk_Emb0006" x="129" y="131" width="129" height="129" frameX="-9" frameY="-12" frameWidth="150" frameHeight="150" />
+<SubTexture name="Edd_DL_3 Talk_Emb0007" x="129" y="131" width="129" height="129" frameX="-9" frameY="-12" frameWidth="150" frameHeight="150" />
+</TextureAtlas>

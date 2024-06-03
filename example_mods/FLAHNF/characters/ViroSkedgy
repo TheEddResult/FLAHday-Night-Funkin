@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-91,
+				-91
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Viroskedgy idle"
+		},
+		{
+			"offsets": [
+				-91,
+				-91
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Viroskedgy left"
+		},
+		{
+			"offsets": [
+				-91,
+				-91
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Viroskedgy down"
+		},
+		{
+			"offsets": [
+				-91,
+				-91
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Viroskedgy up"
+		},
+		{
+			"offsets": [
+				-91,
+				-91
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Viroskedgy right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/ViroSkedgy",
+	"position": [
+		-60,
+		270
+	],
+	"healthicon": "mint",
+	"flip_x": false,
+	"healthbar_colors": [
+		201,
+		199,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 1,
+	"scale": 1.3,
+	"_editor_isPlayer": false
+}

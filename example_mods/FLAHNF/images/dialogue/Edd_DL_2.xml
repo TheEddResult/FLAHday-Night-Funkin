@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Edd_DL_2.png">
+<SubTexture name="Edd_DL_2 Talk0000" x="0" y="0" width="131" height="132" frameX="-11" frameY="-11" frameWidth="150" frameHeight="150" />
+<SubTexture name="Edd_DL_2 Talk0001" x="0" y="0" width="131" height="132" frameX="-11" frameY="-11" frameWidth="150" frameHeight="150" />
+<SubTexture name="Edd_DL_2 Talk0002" x="0" y="132" width="136" height="133" frameX="-11" frameY="-10" frameWidth="150" frameHeight="150" />
+<SubTexture name="Edd_DL_2 Talk0003" x="0" y="132" width="136" height="133" frameX="-11" frameY="-10" frameWidth="150" frameHeight="150" />
+<SubTexture name="Edd_DL_2 Talk0004" x="0" y="265" width="131" height="132" frameX="-11" frameY="-10" frameWidth="150" frameHeight="150" />
+<SubTexture name="Edd_DL_2 Talk0005" x="0" y="265" width="131" height="132" frameX="-11" frameY="-10" frameWidth="150" frameHeight="150" />
+<SubTexture name="Edd_DL_2 Talk0006" x="0" y="397" width="130" height="130" frameX="-11" frameY="-12" frameWidth="150" frameHeight="150" />
+<SubTexture name="Edd_DL_2 Talk0007" x="0" y="397" width="130" height="130" frameX="-11" frameY="-12" frameWidth="150" frameHeight="150" />
+<SubTexture name="Edd_DL_2 Idle0000" x="0" y="397" width="130" height="130" frameX="-11" frameY="-12" frameWidth="150" frameHeight="150" />
+<SubTexture name="Edd_DL_2 Idle0001" x="0" y="397" width="130" height="130" frameX="-11" frameY="-12" frameWidth="150" frameHeight="150" />
+</TextureAtlas>

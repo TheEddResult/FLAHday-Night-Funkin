@@ -1,0 +1,8 @@
+{
+	"name": "FLAHday Night Funkin'",
+	"description": "Failures Living Among Humans get sucked into Friday Night Funkin'...or something. idk, I'm just the pack description.",
+	"restart": true,
+	"runsGlobally": false,
+	"color": [170, 0, 255],
+	"discordRPC": "1163144456049004654"
+}

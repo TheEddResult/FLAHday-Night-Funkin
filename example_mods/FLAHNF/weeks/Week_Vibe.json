@@ -1,0 +1,44 @@
+{
+	"storyName": "Let's Chill and take it slow...",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "vibin",
+	"weekBefore": "Bonus_Songs",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"SkybinDark",
+		"",
+		"VibEddDark"
+	],
+	"songs": [
+		[
+			"random-tomfuckery",
+			"Sky",
+			[
+				255,
+				255,
+				4
+			]
+		],
+		[
+			"take-it-slow",
+			"Sky",
+			[
+				246,
+				182,
+				4
+			]
+		],
+		[
+			"Nostalgic-Chills",
+			"Sky",
+			[
+				100,
+				100,
+				0
+			]
+		]
+	],
+	"weekName": "Week Vibe"
+}

@@ -1,0 +1,699 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="stan.png">
+<SubTexture name="stan idle0000" x="0" y="716" width="122" height="231" frameX="-234" frameY="-204" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan idle0001" x="122" y="716" width="122" height="231" frameX="-234" frameY="-204" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan idle0002" x="244" y="716" width="122" height="231" frameX="-234" frameY="-204" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan idle0003" x="1058" y="693" width="122" height="230" frameX="-234" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan idle0004" x="2224" y="446" width="123" height="221" frameX="-233" frameY="-213" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan idle0005" x="0" y="2087" width="123" height="218" frameX="-233" frameY="-216" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan idle0006" x="123" y="2087" width="123" height="218" frameX="-233" frameY="-216" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan idle0007" x="246" y="2087" width="123" height="218" frameX="-233" frameY="-216" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan idle0008" x="2224" y="1109" width="123" height="220" frameX="-233" frameY="-214" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan idle0009" x="2102" y="0" width="122" height="223" frameX="-234" frameY="-211" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan idle0010" x="464" y="1636" width="122" height="225" frameX="-234" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan idle0011" x="364" y="1407" width="122" height="228" frameX="-234" frameY="-207" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan idle0012" x="0" y="947" width="122" height="230" frameX="-234" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan idle0013" x="366" y="716" width="122" height="231" frameX="-234" frameY="-204" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan idle0014" x="366" y="716" width="122" height="231" frameX="-234" frameY="-204" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan idle0015" x="366" y="716" width="122" height="231" frameX="-234" frameY="-204" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan idle0016" x="366" y="716" width="122" height="231" frameX="-234" frameY="-204" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan idle0017" x="366" y="716" width="122" height="231" frameX="-234" frameY="-204" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan idle0018" x="366" y="716" width="122" height="231" frameX="-234" frameY="-204" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan idle0019" x="366" y="716" width="122" height="231" frameX="-234" frameY="-204" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan idle0020" x="366" y="716" width="122" height="231" frameX="-234" frameY="-204" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan down0000" x="586" y="1636" width="116" height="225" frameX="-234" frameY="-220" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan down0001" x="1736" y="452" width="116" height="226" frameX="-234" frameY="-219" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan down0002" x="1509" y="0" width="115" height="229" frameX="-234" frameY="-216" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan down0003" x="783" y="236" width="115" height="233" frameX="-234" frameY="-213" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan down0004" x="376" y="242" width="115" height="236" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan down0005" x="0" y="242" width="115" height="237" frameX="-234" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan down0006" x="0" y="242" width="115" height="237" frameX="-234" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan down0007" x="115" y="242" width="115" height="237" frameX="-234" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan down0008" x="115" y="242" width="115" height="237" frameX="-234" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan down0009" x="115" y="242" width="115" height="237" frameX="-234" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan down0010" x="115" y="242" width="115" height="237" frameX="-234" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan down0011" x="115" y="242" width="115" height="237" frameX="-234" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan down0012" x="115" y="242" width="115" height="237" frameX="-234" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan down0013" x="115" y="242" width="115" height="237" frameX="-234" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan down0014" x="115" y="242" width="115" height="237" frameX="-234" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan down0015" x="115" y="242" width="115" height="237" frameX="-234" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan down0016" x="115" y="242" width="115" height="237" frameX="-234" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan down0017" x="115" y="242" width="115" height="237" frameX="-234" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan up0000" x="0" y="0" width="123" height="242" frameX="-234" frameY="-193" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan up0001" x="370" y="0" width="123" height="239" frameX="-234" frameY="-196" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan up0002" x="783" y="469" width="123" height="233" frameX="-234" frameY="-202" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan up0003" x="122" y="947" width="123" height="230" frameX="-234" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan up0004" x="245" y="947" width="123" height="230" frameX="-234" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan up0005" x="245" y="947" width="123" height="230" frameX="-234" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan up0006" x="245" y="947" width="123" height="230" frameX="-234" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan up0007" x="245" y="947" width="123" height="230" frameX="-234" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan up0008" x="245" y="947" width="123" height="230" frameX="-234" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan up0009" x="245" y="947" width="123" height="230" frameX="-234" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan up0010" x="245" y="947" width="123" height="230" frameX="-234" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan up0011" x="245" y="947" width="123" height="230" frameX="-234" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan up0012" x="245" y="947" width="123" height="230" frameX="-234" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan up0013" x="245" y="947" width="123" height="230" frameX="-234" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan up0014" x="245" y="947" width="123" height="230" frameX="-234" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan right0000" x="2224" y="1329" width="123" height="219" frameX="-234" frameY="-215" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan right0001" x="2102" y="442" width="115" height="218" frameX="-242" frameY="-216" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan right0002" x="2102" y="660" width="111" height="218" frameX="-246" frameY="-216" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan right0003" x="2102" y="878" width="112" height="218" frameX="-245" frameY="-216" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan right0004" x="2224" y="1548" width="113" height="219" frameX="-244" frameY="-216" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan right0005" x="2224" y="667" width="113" height="221" frameX="-244" frameY="-214" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan right0006" x="1985" y="450" width="113" height="224" frameX="-244" frameY="-211" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan right0007" x="1852" y="452" width="113" height="226" frameX="-244" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan right0008" x="949" y="1407" width="113" height="227" frameX="-244" frameY="-208" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan right0009" x="1062" y="1407" width="113" height="227" frameX="-244" frameY="-208" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan right0010" x="486" y="1407" width="113" height="228" frameX="-244" frameY="-207" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan right0011" x="486" y="1407" width="113" height="228" frameX="-244" frameY="-207" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan right0012" x="486" y="1407" width="113" height="228" frameX="-244" frameY="-207" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan right0013" x="486" y="1407" width="113" height="228" frameX="-244" frameY="-207" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan right0014" x="486" y="1407" width="113" height="228" frameX="-244" frameY="-207" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan right0015" x="486" y="1407" width="113" height="228" frameX="-244" frameY="-207" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan right0016" x="486" y="1407" width="113" height="228" frameX="-244" frameY="-207" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan left0000" x="625" y="2087" width="129" height="215" frameX="-228" frameY="-219" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan left0001" x="369" y="2087" width="128" height="218" frameX="-229" frameY="-216" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan left0002" x="2224" y="0" width="125" height="223" frameX="-232" frameY="-212" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan left0003" x="735" y="1862" width="123" height="224" frameX="-234" frameY="-211" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan left0004" x="702" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan left0005" x="702" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan left0006" x="702" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan left0007" x="702" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan left0008" x="702" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan left0009" x="702" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan left0010" x="702" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan left0011" x="702" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan left0012" x="702" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan left0013" x="702" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan left0014" x="702" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan left0015" x="702" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan left0016" x="702" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan left0017" x="702" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan left0018" x="702" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan left0019" x="825" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan left0020" x="948" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan left0021" x="948" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss up0000" x="123" y="0" width="123" height="242" frameX="-234" frameY="-193" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss up0001" x="246" y="0" width="124" height="242" frameX="-233" frameY="-193" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss up0002" x="578" y="479" width="149" height="236" frameX="-208" frameY="-199" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss up0003" x="368" y="947" width="149" height="230" frameX="-208" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss up0004" x="517" y="947" width="149" height="230" frameX="-208" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss up0005" x="517" y="947" width="149" height="230" frameX="-208" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss up0006" x="517" y="947" width="149" height="230" frameX="-208" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss up0007" x="517" y="947" width="149" height="230" frameX="-208" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss up0008" x="517" y="947" width="149" height="230" frameX="-208" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss up0009" x="666" y="947" width="149" height="230" frameX="-208" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss up0010" x="666" y="947" width="149" height="230" frameX="-208" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss up0011" x="666" y="947" width="149" height="230" frameX="-208" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss up0012" x="666" y="947" width="149" height="230" frameX="-208" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss up0013" x="666" y="947" width="149" height="230" frameX="-208" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss up0014" x="815" y="947" width="149" height="230" frameX="-208" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss up0015" x="815" y="947" width="149" height="230" frameX="-208" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss up0016" x="815" y="947" width="149" height="230" frameX="-208" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss up0017" x="815" y="947" width="149" height="230" frameX="-208" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss up0018" x="815" y="947" width="149" height="230" frameX="-208" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss up0019" x="815" y="947" width="149" height="230" frameX="-208" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss up0020" x="815" y="947" width="149" height="230" frameX="-208" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss up0021" x="815" y="947" width="149" height="230" frameX="-208" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss up0022" x="815" y="947" width="149" height="230" frameX="-208" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss up0023" x="815" y="947" width="149" height="230" frameX="-208" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss up0024" x="815" y="947" width="149" height="230" frameX="-208" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss up0025" x="815" y="947" width="149" height="230" frameX="-208" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss right0000" x="2224" y="1767" width="123" height="219" frameX="-234" frameY="-215" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss right0001" x="2102" y="1096" width="115" height="218" frameX="-242" frameY="-216" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss right0002" x="2102" y="1314" width="111" height="218" frameX="-246" frameY="-216" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss right0003" x="2102" y="1532" width="112" height="218" frameX="-245" frameY="-216" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss right0004" x="2102" y="223" width="113" height="219" frameX="-244" frameY="-216" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss right0005" x="2224" y="888" width="113" height="221" frameX="-244" frameY="-214" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss right0006" x="1985" y="674" width="117" height="224" frameX="-240" frameY="-211" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss right0007" x="1736" y="678" width="117" height="226" frameX="-240" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss right0008" x="1175" y="1407" width="117" height="227" frameX="-240" frameY="-208" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss right0009" x="1292" y="1407" width="117" height="227" frameX="-240" frameY="-208" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss right0010" x="599" y="1407" width="117" height="228" frameX="-240" frameY="-207" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss right0011" x="599" y="1407" width="117" height="228" frameX="-240" frameY="-207" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss right0012" x="599" y="1407" width="117" height="228" frameX="-240" frameY="-207" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss right0013" x="599" y="1407" width="117" height="228" frameX="-240" frameY="-207" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss right0014" x="716" y="1407" width="117" height="228" frameX="-240" frameY="-207" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss right0015" x="716" y="1407" width="117" height="228" frameX="-240" frameY="-207" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss right0016" x="716" y="1407" width="117" height="228" frameX="-240" frameY="-207" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss left0000" x="754" y="2087" width="129" height="215" frameX="-228" frameY="-219" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss left0001" x="497" y="2087" width="128" height="218" frameX="-229" frameY="-216" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss left0002" x="2224" y="223" width="125" height="223" frameX="-232" frameY="-212" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss left0003" x="858" y="1862" width="123" height="224" frameX="-234" frameY="-211" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss left0004" x="1071" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss left0005" x="1071" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss left0006" x="1071" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss left0007" x="1071" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss left0008" x="1071" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss left0009" x="1071" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss left0010" x="1071" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss left0011" x="1071" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss left0012" x="1071" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss left0013" x="1071" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss left0014" x="1071" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss left0015" x="1071" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss left0016" x="1071" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss left0017" x="1071" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss left0018" x="1071" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss left0019" x="1194" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss left0020" x="1317" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss left0021" x="1440" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss left0022" x="1440" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss left0023" x="1440" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss left0024" x="1440" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss left0025" x="1440" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss left0026" x="1440" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss left0027" x="1440" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss left0028" x="1440" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss left0029" x="1440" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss down0000" x="1563" y="1636" width="116" height="225" frameX="-234" frameY="-220" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss down0001" x="916" y="236" width="118" height="235" frameX="-234" frameY="-211" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss down0002" x="916" y="471" width="122" height="235" frameX="-234" frameY="-211" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss down0003" x="783" y="0" width="133" height="236" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss down0004" x="916" y="0" width="142" height="236" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss down0005" x="230" y="242" width="146" height="237" frameX="-234" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss down0006" x="493" y="0" width="146" height="237" frameX="-234" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss down0007" x="493" y="237" width="144" height="237" frameX="-234" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss down0008" x="639" y="0" width="144" height="237" frameX="-234" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss down0009" x="639" y="237" width="142" height="237" frameX="-234" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss down0010" x="0" y="479" width="146" height="237" frameX="-234" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss down0011" x="146" y="479" width="142" height="237" frameX="-234" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss down0012" x="288" y="479" width="144" height="237" frameX="-234" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss down0013" x="146" y="479" width="142" height="237" frameX="-234" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss down0014" x="432" y="479" width="146" height="237" frameX="-234" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss down0015" x="432" y="479" width="146" height="237" frameX="-234" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss down0016" x="432" y="479" width="146" height="237" frameX="-234" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan miss down0017" x="432" y="479" width="146" height="237" frameX="-234" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0000" x="1853" y="678" width="123" height="226" frameX="-234" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0001" x="1736" y="904" width="122" height="226" frameX="-235" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0002" x="1409" y="1407" width="119" height="227" frameX="-238" frameY="-208" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0003" x="1509" y="229" width="107" height="229" frameX="-250" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0004" x="964" y="947" width="106" height="230" frameX="-251" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0005" x="1070" y="947" width="105" height="230" frameX="-252" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0006" x="1189" y="0" width="105" height="230" frameX="-252" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0007" x="1294" y="0" width="106" height="230" frameX="-251" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0008" x="1509" y="458" width="112" height="229" frameX="-245" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0009" x="1509" y="687" width="114" height="229" frameX="-243" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0010" x="1509" y="916" width="113" height="229" frameX="-244" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0011" x="1294" y="230" width="105" height="230" frameX="-252" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0012" x="1294" y="460" width="105" height="230" frameX="-252" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0013" x="1294" y="690" width="105" height="230" frameX="-252" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0014" x="1294" y="920" width="106" height="230" frameX="-251" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0015" x="1509" y="1145" width="112" height="229" frameX="-245" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0016" x="1509" y="687" width="114" height="229" frameX="-243" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0017" x="1294" y="920" width="106" height="230" frameX="-251" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0018" x="1294" y="460" width="105" height="230" frameX="-252" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0019" x="1189" y="230" width="105" height="230" frameX="-252" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0020" x="1189" y="460" width="105" height="229" frameX="-252" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0021" x="1400" y="0" width="109" height="230" frameX="-248" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0022" x="1624" y="0" width="112" height="229" frameX="-245" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0023" x="1509" y="687" width="114" height="229" frameX="-243" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0024" x="1294" y="460" width="105" height="230" frameX="-252" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0025" x="1294" y="690" width="105" height="230" frameX="-252" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0026" x="1294" y="920" width="106" height="230" frameX="-251" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0027" x="1509" y="1145" width="112" height="229" frameX="-245" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0028" x="1509" y="687" width="114" height="229" frameX="-243" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0029" x="1294" y="920" width="106" height="230" frameX="-251" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0030" x="1294" y="460" width="105" height="230" frameX="-252" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0031" x="1294" y="690" width="105" height="230" frameX="-252" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0032" x="1294" y="920" width="106" height="230" frameX="-251" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0033" x="1509" y="1145" width="112" height="229" frameX="-245" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0034" x="1509" y="687" width="114" height="229" frameX="-243" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0035" x="1294" y="920" width="106" height="230" frameX="-251" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0036" x="1294" y="460" width="105" height="230" frameX="-252" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0037" x="1189" y="230" width="105" height="230" frameX="-252" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0038" x="1189" y="460" width="105" height="229" frameX="-252" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0039" x="1400" y="0" width="109" height="230" frameX="-248" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0040" x="1624" y="0" width="112" height="229" frameX="-245" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0041" x="1509" y="687" width="114" height="229" frameX="-243" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0042" x="1294" y="920" width="106" height="230" frameX="-251" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0043" x="1294" y="460" width="105" height="230" frameX="-252" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0044" x="1294" y="690" width="105" height="230" frameX="-252" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0045" x="1294" y="920" width="106" height="230" frameX="-251" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0046" x="1509" y="1145" width="112" height="229" frameX="-245" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0047" x="1509" y="687" width="114" height="229" frameX="-243" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0048" x="1294" y="920" width="106" height="230" frameX="-251" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0049" x="1294" y="460" width="105" height="230" frameX="-252" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0050" x="1294" y="690" width="105" height="230" frameX="-252" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0051" x="1294" y="920" width="106" height="230" frameX="-251" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0052" x="1509" y="1145" width="112" height="229" frameX="-245" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0053" x="1509" y="687" width="114" height="229" frameX="-243" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0054" x="1294" y="920" width="106" height="230" frameX="-251" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0055" x="1294" y="460" width="105" height="230" frameX="-252" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0056" x="1294" y="690" width="105" height="230" frameX="-252" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0057" x="1294" y="920" width="106" height="230" frameX="-251" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0058" x="1509" y="1145" width="112" height="229" frameX="-245" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0059" x="1509" y="687" width="114" height="229" frameX="-243" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0060" x="1294" y="920" width="106" height="230" frameX="-251" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0061" x="1294" y="460" width="105" height="230" frameX="-252" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0062" x="1624" y="229" width="105" height="229" frameX="-252" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0063" x="0" y="1177" width="110" height="230" frameX="-247" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0064" x="1509" y="687" width="114" height="229" frameX="-243" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0065" x="1294" y="920" width="106" height="230" frameX="-251" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0066" x="1294" y="460" width="105" height="230" frameX="-252" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0067" x="1294" y="690" width="105" height="230" frameX="-252" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0068" x="1294" y="920" width="106" height="230" frameX="-251" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0069" x="1509" y="1145" width="112" height="229" frameX="-245" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0070" x="1509" y="687" width="114" height="229" frameX="-243" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0071" x="1294" y="920" width="106" height="230" frameX="-251" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0072" x="1294" y="460" width="105" height="230" frameX="-252" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0073" x="1189" y="230" width="105" height="230" frameX="-252" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0074" x="1189" y="460" width="105" height="229" frameX="-252" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0075" x="1400" y="0" width="109" height="230" frameX="-248" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0076" x="1624" y="0" width="112" height="229" frameX="-245" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0077" x="1509" y="687" width="114" height="229" frameX="-243" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0078" x="1294" y="920" width="106" height="230" frameX="-251" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0079" x="1294" y="460" width="105" height="230" frameX="-252" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0080" x="1624" y="229" width="105" height="229" frameX="-252" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0081" x="0" y="1177" width="110" height="230" frameX="-247" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0082" x="1509" y="687" width="114" height="229" frameX="-243" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0083" x="1294" y="920" width="106" height="230" frameX="-251" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0084" x="1294" y="460" width="105" height="230" frameX="-252" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0085" x="1294" y="690" width="105" height="230" frameX="-252" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0086" x="1294" y="920" width="106" height="230" frameX="-251" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0087" x="1509" y="1145" width="112" height="229" frameX="-245" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0088" x="1509" y="687" width="114" height="229" frameX="-243" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0089" x="1294" y="920" width="106" height="230" frameX="-251" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0090" x="1294" y="460" width="105" height="230" frameX="-252" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0091" x="1624" y="229" width="105" height="229" frameX="-252" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0092" x="0" y="1177" width="110" height="230" frameX="-247" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0093" x="1509" y="687" width="114" height="229" frameX="-243" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0094" x="1294" y="920" width="106" height="230" frameX="-251" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0095" x="1294" y="460" width="105" height="230" frameX="-252" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0096" x="1294" y="690" width="105" height="230" frameX="-252" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0097" x="1294" y="920" width="106" height="230" frameX="-251" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0098" x="1509" y="1145" width="112" height="229" frameX="-245" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0099" x="1509" y="687" width="114" height="229" frameX="-243" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0100" x="1294" y="920" width="106" height="230" frameX="-251" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0101" x="1294" y="460" width="105" height="230" frameX="-252" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0102" x="1624" y="229" width="105" height="229" frameX="-252" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0103" x="0" y="1177" width="110" height="230" frameX="-247" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0104" x="1509" y="687" width="114" height="229" frameX="-243" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0105" x="1294" y="920" width="106" height="230" frameX="-251" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0106" x="1294" y="460" width="105" height="230" frameX="-252" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0107" x="1624" y="229" width="105" height="229" frameX="-252" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0108" x="0" y="1177" width="110" height="230" frameX="-247" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0109" x="0" y="1407" width="114" height="229" frameX="-243" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0110" x="1624" y="458" width="112" height="229" frameX="-245" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0111" x="1400" y="230" width="106" height="230" frameX="-251" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0112" x="1400" y="460" width="105" height="230" frameX="-252" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0113" x="1400" y="690" width="105" height="230" frameX="-252" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0114" x="1400" y="920" width="107" height="230" frameX="-250" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0115" x="833" y="1407" width="116" height="228" frameX="-241" frameY="-207" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0116" x="1858" y="904" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0117" x="1858" y="904" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0118" x="1858" y="904" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0119" x="1858" y="904" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0120" x="1858" y="904" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0121" x="1858" y="904" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0122" x="1858" y="904" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0123" x="1858" y="904" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0124" x="1858" y="904" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0125" x="1858" y="904" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0126" x="1858" y="904" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0127" x="1858" y="904" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0128" x="1858" y="904" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0129" x="1858" y="904" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0130" x="1858" y="904" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0131" x="1858" y="904" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0132" x="1858" y="904" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0133" x="1858" y="904" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0134" x="1858" y="904" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0135" x="1858" y="904" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0136" x="1858" y="904" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0137" x="1858" y="904" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0138" x="1858" y="904" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0139" x="1858" y="904" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0140" x="1858" y="904" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0141" x="1679" y="1636" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0142" x="488" y="716" width="131" height="231" frameX="-226" frameY="-204" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0143" x="619" y="716" width="131" height="231" frameX="-226" frameY="-204" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0144" x="750" y="716" width="131" height="231" frameX="-226" frameY="-204" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0145" x="110" y="1177" width="131" height="230" frameX="-226" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0146" x="241" y="1177" width="129" height="230" frameX="-228" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0147" x="1802" y="1636" width="117" height="225" frameX="-240" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0148" x="1736" y="1130" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0149" x="1852" y="1130" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0150" x="1985" y="0" width="117" height="225" frameX="-240" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0151" x="981" y="1862" width="120" height="224" frameX="-237" frameY="-211" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0152" x="114" y="1407" width="125" height="229" frameX="-232" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0153" x="370" y="1177" width="130" height="230" frameX="-227" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0154" x="488" y="716" width="131" height="231" frameX="-226" frameY="-204" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0155" x="500" y="1177" width="131" height="230" frameX="-226" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0156" x="631" y="1177" width="129" height="230" frameX="-228" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0157" x="1985" y="225" width="117" height="225" frameX="-240" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0158" x="1736" y="1356" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0159" x="1852" y="1356" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0160" x="0" y="1862" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0161" x="488" y="716" width="131" height="231" frameX="-226" frameY="-204" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0162" x="760" y="1177" width="129" height="230" frameX="-228" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0163" x="0" y="1862" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0164" x="123" y="1862" width="118" height="225" frameX="-239" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0165" x="1852" y="1356" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0166" x="1101" y="1862" width="119" height="224" frameX="-238" frameY="-211" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0167" x="889" y="1177" width="127" height="230" frameX="-230" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0168" x="488" y="716" width="131" height="231" frameX="-226" frameY="-204" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0169" x="760" y="1177" width="129" height="230" frameX="-228" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0170" x="0" y="1862" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0171" x="123" y="1862" width="118" height="225" frameX="-239" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0172" x="1852" y="1356" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0173" x="0" y="1636" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0174" x="116" y="1636" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0175" x="1220" y="1862" width="118" height="224" frameX="-239" frameY="-211" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0176" x="1016" y="1177" width="128" height="230" frameX="-229" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0177" x="881" y="716" width="131" height="231" frameX="-226" frameY="-204" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0178" x="1058" y="0" width="131" height="231" frameX="-226" frameY="-204" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0179" x="488" y="716" width="131" height="231" frameX="-226" frameY="-204" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0180" x="889" y="1177" width="127" height="230" frameX="-230" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0181" x="1101" y="1862" width="119" height="224" frameX="-238" frameY="-211" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0182" x="1852" y="1356" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0183" x="232" y="1636" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0184" x="0" y="1862" width="123" height="225" frameX="-234" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0185" x="1058" y="231" width="131" height="231" frameX="-226" frameY="-204" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0186" x="488" y="716" width="131" height="231" frameX="-226" frameY="-204" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0187" x="1058" y="462" width="131" height="231" frameX="-226" frameY="-204" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0188" x="1144" y="1177" width="129" height="230" frameX="-228" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0189" x="1273" y="1177" width="127" height="230" frameX="-230" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0190" x="239" y="1407" width="125" height="229" frameX="-232" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0191" x="1338" y="1862" width="121" height="224" frameX="-236" frameY="-211" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0192" x="1459" y="1862" width="118" height="224" frameX="-239" frameY="-211" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0193" x="348" y="1636" width="116" height="226" frameX="-241" frameY="-209" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0194" x="1528" y="1407" width="113" height="227" frameX="-244" frameY="-208" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0195" x="1624" y="1145" width="111" height="228" frameX="-246" frameY="-207" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0196" x="1624" y="687" width="109" height="229" frameX="-248" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0197" x="1624" y="916" width="109" height="229" frameX="-249" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0198" x="2591" y="1249" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0199" x="2591" y="1249" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0200" x="2591" y="1249" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0201" x="2591" y="1249" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0202" x="2591" y="1373" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0203" x="2591" y="1497" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0204" x="2349" y="1056" width="242" height="129" frameX="-277" frameY="-352" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0205" x="2349" y="1185" width="242" height="129" frameX="-277" frameY="-352" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0206" x="1936" y="2305" width="242" height="127" frameX="-277" frameY="-353" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0207" x="2178" y="2434" width="242" height="125" frameX="-277" frameY="-354" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0208" x="2591" y="1621" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0209" x="2591" y="1621" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0210" x="2591" y="1621" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0211" x="2591" y="1745" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0212" x="2591" y="1869" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0213" x="2591" y="1993" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0214" x="2591" y="2117" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0215" x="2591" y="2241" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0216" x="883" y="2087" width="242" height="135" frameX="-277" frameY="-349" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0217" x="1609" y="2087" width="242" height="133" frameX="-277" frameY="-350" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0218" x="2349" y="1314" width="242" height="129" frameX="-277" frameY="-352" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0219" x="968" y="2434" width="242" height="126" frameX="-277" frameY="-354" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0220" x="0" y="2561" width="243" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0221" x="2591" y="2365" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0222" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0223" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0224" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0225" x="2349" y="532" width="242" height="131" frameX="-277" frameY="-351" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0226" x="2349" y="1443" width="242" height="129" frameX="-277" frameY="-352" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0227" x="1210" y="2434" width="242" height="126" frameX="-277" frameY="-354" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0228" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0229" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0230" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0231" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0232" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0233" x="1851" y="2087" width="242" height="133" frameX="-277" frameY="-350" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0234" x="2349" y="1572" width="242" height="129" frameX="-277" frameY="-352" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0235" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0236" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0237" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0238" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0239" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0240" x="2349" y="1701" width="242" height="129" frameX="-277" frameY="-352" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0241" x="2178" y="2305" width="242" height="127" frameX="-277" frameY="-353" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0242" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0243" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0244" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0245" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0246" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0247" x="1851" y="2087" width="242" height="133" frameX="-277" frameY="-350" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0248" x="2093" y="2087" width="242" height="133" frameX="-277" frameY="-350" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0249" x="2349" y="663" width="242" height="131" frameX="-277" frameY="-351" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0250" x="0" y="2434" width="242" height="127" frameX="-277" frameY="-353" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0251" x="2591" y="0" width="242" height="125" frameX="-277" frameY="-354" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0252" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0253" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0254" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0255" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0256" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0257" x="2349" y="1701" width="242" height="129" frameX="-277" frameY="-352" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0258" x="2349" y="1830" width="242" height="129" frameX="-277" frameY="-352" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0259" x="968" y="2305" width="242" height="128" frameX="-277" frameY="-353" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0260" x="2178" y="2305" width="242" height="127" frameX="-277" frameY="-353" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0261" x="2591" y="125" width="242" height="125" frameX="-277" frameY="-354" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0262" x="485" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0263" x="1634" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0264" x="1634" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0265" x="1634" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0266" x="1634" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0267" x="1634" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0268" x="1634" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0269" x="1634" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0270" x="1634" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0271" x="1634" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0272" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0273" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0274" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0275" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0276" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0277" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0278" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0279" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0280" x="1634" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0281" x="1634" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0282" x="1634" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0283" x="1634" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0284" x="1634" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0285" x="1634" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0286" x="1634" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0287" x="1634" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0288" x="1634" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0289" x="1634" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0290" x="1634" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0291" x="1634" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0292" x="1634" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0293" x="1634" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0294" x="2114" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0295" x="2114" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0296" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0297" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0298" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0299" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0300" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0301" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0302" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0303" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0304" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0305" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0306" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0307" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0308" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0309" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0310" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0311" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0312" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0313" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0314" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0315" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0316" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0317" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0318" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0319" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0320" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0321" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0322" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0323" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0324" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0325" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0326" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0327" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0328" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0329" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0330" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0331" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0332" x="1874" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0333" x="2114" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0334" x="2114" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0335" x="2114" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0336" x="2114" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0337" x="2114" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0338" x="2114" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0339" x="2114" y="2561" width="240" height="119" frameX="-277" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0340" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0341" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0342" x="2349" y="1701" width="242" height="129" frameX="-277" frameY="-352" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0343" x="2349" y="1959" width="242" height="129" frameX="-277" frameY="-352" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0344" x="2349" y="2088" width="242" height="129" frameX="-277" frameY="-352" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0345" x="968" y="2305" width="242" height="128" frameX="-277" frameY="-353" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0346" x="242" y="2434" width="242" height="127" frameX="-277" frameY="-353" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0347" x="1452" y="2434" width="242" height="126" frameX="-277" frameY="-354" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0348" x="2591" y="125" width="242" height="125" frameX="-277" frameY="-354" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0349" x="2591" y="250" width="242" height="125" frameX="-277" frameY="-354" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0350" x="727" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0351" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0352" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0353" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0354" x="1125" y="2087" width="242" height="135" frameX="-277" frameY="-349" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0355" x="2349" y="0" width="242" height="133" frameX="-277" frameY="-350" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0356" x="2349" y="794" width="242" height="131" frameX="-277" frameY="-351" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0357" x="1210" y="2305" width="242" height="128" frameX="-277" frameY="-353" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0358" x="2591" y="375" width="242" height="125" frameX="-277" frameY="-354" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0359" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0360" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0361" x="2349" y="532" width="242" height="131" frameX="-277" frameY="-351" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0362" x="2349" y="925" width="242" height="131" frameX="-277" frameY="-351" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0363" x="1452" y="2305" width="242" height="128" frameX="-277" frameY="-353" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0364" x="2591" y="500" width="242" height="125" frameX="-277" frameY="-354" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0365" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0366" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0367" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0368" x="1851" y="2087" width="242" height="133" frameX="-277" frameY="-350" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0369" x="2349" y="133" width="242" height="133" frameX="-277" frameY="-350" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0370" x="2349" y="1572" width="242" height="129" frameX="-277" frameY="-352" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0371" x="2591" y="625" width="242" height="125" frameX="-277" frameY="-354" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0372" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0373" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0374" x="2349" y="1701" width="242" height="129" frameX="-277" frameY="-352" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0375" x="0" y="2305" width="242" height="129" frameX="-277" frameY="-352" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0376" x="242" y="2305" width="242" height="129" frameX="-277" frameY="-352" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0377" x="484" y="2305" width="242" height="129" frameX="-277" frameY="-352" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0378" x="484" y="2434" width="242" height="127" frameX="-277" frameY="-353" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0379" x="2178" y="2305" width="242" height="127" frameX="-277" frameY="-353" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0380" x="1694" y="2434" width="242" height="126" frameX="-277" frameY="-354" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0381" x="2591" y="750" width="242" height="125" frameX="-277" frameY="-354" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0382" x="2591" y="875" width="242" height="125" frameX="-277" frameY="-354" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0383" x="969" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0384" x="243" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0385" x="544" y="2685" width="180" height="103" frameX="-256" frameY="-314" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0386" x="544" y="2685" width="180" height="103" frameX="-256" frameY="-314" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0387" x="544" y="2685" width="180" height="103" frameX="-256" frameY="-314" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0388" x="544" y="2685" width="180" height="103" frameX="-256" frameY="-314" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0389" x="0" y="2685" width="182" height="104" frameX="-254" frameY="-312" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0390" x="182" y="2685" width="181" height="104" frameX="-255" frameY="-312" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0391" x="724" y="2685" width="181" height="103" frameX="-255" frameY="-313" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0392" x="363" y="2685" width="181" height="104" frameX="-255" frameY="-313" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0393" x="905" y="2685" width="180" height="103" frameX="-256" frameY="-314" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0394" x="544" y="2685" width="180" height="103" frameX="-256" frameY="-314" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0395" x="544" y="2685" width="180" height="103" frameX="-256" frameY="-314" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0396" x="544" y="2685" width="180" height="103" frameX="-256" frameY="-314" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0397" x="544" y="2685" width="180" height="103" frameX="-256" frameY="-314" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0398" x="544" y="2685" width="180" height="103" frameX="-256" frameY="-314" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0399" x="1085" y="2685" width="181" height="103" frameX="-255" frameY="-313" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0400" x="2535" y="2561" width="181" height="106" frameX="-255" frameY="-310" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0401" x="2354" y="2561" width="181" height="117" frameX="-255" frameY="-299" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0402" x="1453" y="2561" width="181" height="121" frameX="-255" frameY="-295" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0403" x="1266" y="2685" width="187" height="98" frameX="-255" frameY="-318" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0404" x="1453" y="2685" width="190" height="98" frameX="-255" frameY="-318" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0405" x="1643" y="2685" width="189" height="98" frameX="-255" frameY="-318" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0406" x="1832" y="2685" width="188" height="98" frameX="-256" frameY="-319" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0407" x="1832" y="2685" width="188" height="98" frameX="-256" frameY="-319" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0408" x="1832" y="2685" width="188" height="98" frameX="-256" frameY="-319" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0409" x="1832" y="2685" width="188" height="98" frameX="-256" frameY="-319" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0410" x="1832" y="2685" width="188" height="98" frameX="-256" frameY="-319" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0411" x="1832" y="2685" width="188" height="98" frameX="-256" frameY="-319" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0412" x="2020" y="2685" width="188" height="98" frameX="-256" frameY="-319" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0413" x="2020" y="2685" width="188" height="98" frameX="-256" frameY="-319" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0414" x="1832" y="2685" width="188" height="98" frameX="-256" frameY="-319" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0415" x="1832" y="2685" width="188" height="98" frameX="-256" frameY="-319" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0416" x="1832" y="2685" width="188" height="98" frameX="-256" frameY="-319" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0417" x="1832" y="2685" width="188" height="98" frameX="-256" frameY="-319" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0418" x="1832" y="2685" width="188" height="98" frameX="-256" frameY="-319" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0419" x="1832" y="2685" width="188" height="98" frameX="-256" frameY="-319" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0420" x="1832" y="2685" width="188" height="98" frameX="-256" frameY="-319" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0421" x="1832" y="2685" width="188" height="98" frameX="-256" frameY="-319" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0422" x="2208" y="2685" width="188" height="98" frameX="-256" frameY="-319" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0423" x="2208" y="2685" width="188" height="98" frameX="-256" frameY="-319" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0424" x="2208" y="2685" width="188" height="98" frameX="-256" frameY="-319" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0425" x="2208" y="2685" width="188" height="98" frameX="-256" frameY="-319" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0426" x="2208" y="2685" width="188" height="98" frameX="-256" frameY="-319" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0427" x="2208" y="2685" width="188" height="98" frameX="-256" frameY="-319" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0428" x="2208" y="2685" width="188" height="98" frameX="-256" frameY="-319" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0429" x="2208" y="2685" width="188" height="98" frameX="-256" frameY="-319" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0430" x="2208" y="2685" width="188" height="98" frameX="-256" frameY="-319" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0431" x="2208" y="2685" width="188" height="98" frameX="-256" frameY="-319" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0432" x="2208" y="2685" width="188" height="98" frameX="-256" frameY="-319" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0433" x="2208" y="2685" width="188" height="98" frameX="-256" frameY="-319" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0434" x="2208" y="2685" width="188" height="98" frameX="-256" frameY="-319" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0435" x="2208" y="2685" width="188" height="98" frameX="-256" frameY="-319" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0436" x="1211" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0437" x="1211" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0438" x="1211" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0439" x="1211" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0440" x="1211" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0441" x="1211" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0442" x="1367" y="2087" width="242" height="135" frameX="-277" frameY="-349" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0443" x="2349" y="266" width="242" height="133" frameX="-277" frameY="-350" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0444" x="726" y="2434" width="242" height="127" frameX="-277" frameY="-353" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0445" x="1211" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0446" x="1211" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0447" x="1211" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0448" x="1211" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0449" x="1367" y="2087" width="242" height="135" frameX="-277" frameY="-349" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0450" x="726" y="2305" width="242" height="129" frameX="-277" frameY="-352" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0451" x="1211" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0452" x="1211" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0453" x="1367" y="2087" width="242" height="135" frameX="-277" frameY="-349" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0454" x="2349" y="266" width="242" height="133" frameX="-277" frameY="-350" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0455" x="726" y="2434" width="242" height="127" frameX="-277" frameY="-353" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0456" x="1211" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0457" x="1211" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0458" x="1367" y="2087" width="242" height="135" frameX="-277" frameY="-349" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0459" x="2349" y="399" width="242" height="133" frameX="-277" frameY="-350" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0460" x="726" y="2305" width="242" height="129" frameX="-277" frameY="-352" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0461" x="1936" y="2434" width="242" height="126" frameX="-277" frameY="-354" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0462" x="1211" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0463" x="1211" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0464" x="1367" y="2087" width="242" height="135" frameX="-277" frameY="-349" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0465" x="2349" y="399" width="242" height="133" frameX="-277" frameY="-350" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0466" x="726" y="2305" width="242" height="129" frameX="-277" frameY="-352" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0467" x="1936" y="2434" width="242" height="126" frameX="-277" frameY="-354" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0468" x="1211" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0469" x="1211" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0470" x="1211" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0471" x="1367" y="2087" width="242" height="135" frameX="-277" frameY="-349" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0472" x="2349" y="399" width="242" height="133" frameX="-277" frameY="-350" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0473" x="726" y="2305" width="242" height="129" frameX="-277" frameY="-352" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0474" x="1936" y="2434" width="242" height="126" frameX="-277" frameY="-354" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0475" x="1211" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0476" x="1211" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0477" x="1211" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0478" x="1211" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0479" x="1211" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0480" x="1211" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0481" x="1211" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0482" x="726" y="2305" width="242" height="129" frameX="-277" frameY="-352" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0483" x="726" y="2434" width="242" height="127" frameX="-277" frameY="-353" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0484" x="1211" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0485" x="1211" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0486" x="1211" y="2561" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0487" x="726" y="2305" width="242" height="129" frameX="-277" frameY="-352" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0488" x="1694" y="2305" width="242" height="128" frameX="-277" frameY="-353" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0489" x="2591" y="1000" width="242" height="125" frameX="-277" frameY="-354" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0490" x="2591" y="1125" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0491" x="2591" y="1125" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0492" x="2591" y="1125" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0493" x="2591" y="1125" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0494" x="2591" y="1125" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0495" x="726" y="2305" width="242" height="129" frameX="-277" frameY="-352" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0496" x="1694" y="2305" width="242" height="128" frameX="-277" frameY="-353" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0497" x="2591" y="1000" width="242" height="125" frameX="-277" frameY="-354" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0498" x="2591" y="1125" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0499" x="2591" y="1125" width="242" height="124" frameX="-277" frameY="-355" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0500" x="1736" y="0" width="249" height="226" frameX="-277" frameY="-253" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0501" x="241" y="1862" width="247" height="224" frameX="-277" frameY="-255" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0502" x="1577" y="1862" width="246" height="223" frameX="-277" frameY="-256" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0503" x="1577" y="1862" width="246" height="223" frameX="-277" frameY="-256" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan firstDeath0504" x="1577" y="1862" width="246" height="223" frameX="-277" frameY="-256" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan deathLoop0000" x="1736" y="226" width="249" height="226" frameX="-277" frameY="-253" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan deathLoop0001" x="488" y="1862" width="247" height="224" frameX="-277" frameY="-255" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan deathLoop0002" x="1577" y="1862" width="246" height="223" frameX="-277" frameY="-256" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan deathLoop0003" x="1577" y="1862" width="246" height="223" frameX="-277" frameY="-256" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan deathLoop0004" x="1577" y="1862" width="246" height="223" frameX="-277" frameY="-256" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan deathConfirm0000" x="1823" y="1862" width="246" height="223" frameX="-277" frameY="-256" frameWidth="600" frameHeight="600" />
+<SubTexture name="stan deathConfirm0001" x="1577" y="1862" width="246" height="223" frameX="-277" frameY="-256" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

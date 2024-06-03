@@ -1,0 +1,60 @@
+local allowCountdown = false
+local dialogueFirst = true
+local inDisclaimer = false
+function onStartCountdown() -- for dialogue
+	-- Block the first countdown and start a timer of 0.8 seconds to play the dialogue
+	if not allowCountdown and isStoryMode and not seenCutscene then
+		if dialogueFirst then
+			setProperty('inCutscene', true);
+			runTimer('startDialogue', 0.8);
+			dialogueFirst = false
+			return Function_Stop;
+		elseif not dialogueFirst and not inDisclaimer then
+			makeLuaSprite('bg', 0, 0);
+			makeGraphic('bg', 1280, 720, '000000');
+			setObjectCamera('bg', 'other');
+			-- replace this because it's not the right parameters
+			makeLuaText('text', "Disclaimer: this is an extremely early build of the mod FLAHday Night Funkin'. Pretty much EVERYTHING is subject to change. Press Accept to continue.", 1000, 0, 0)
+			-- ^^^^^^^^^^^^^
+			makeLuaText('2text', "Hi stan! Thanks for playing! Hopefully we'll have something actually presentable soon.", 2000, -375, 700)
+			setTextSize('text', 35)
+			setTextSize('2text', 15)
+			setObjectCamera('text', 'other' );
+			screenCenter('text');
+			setObjectCamera('2text', 'other');
+			addLuaSprite('bg', false);
+			addLuaText('text', false);
+			addLuaText('2text', false);
+			inDisclaimer = true;
+			return Function_Stop;
+		end
+	end
+	return Function_Continue;
+end
+
+function onTimerCompleted(tag, loops, loopsLeft)
+	if tag == 'startDialogue' then -- Timer completed, play dialogue
+		startDialogue('dialogue', 'breakfast');
+	end
+
+	if tag == 'forceCountdown' then
+		startCountdown();
+		inDisclaimer = false;
+	end
+end
+
+function onUpdate()
+	if keyJustPressed('accept') then
+		if not allowCountdown and inDisclaimer then
+			allowCountdown = true;
+			runTimer('forceCountdown', 0.8);
+			playSound('confirmMenu', 0.7);
+			doTweenAlpha('bg', 'bg', 0, 1, 'linear');
+			doTweenAlpha('text', 'text', 0, 1, 'linear');
+			doTweenAlpha('2text', '2text', 0, 1, 'linear');
+			setProperty('gf.stunned', false);
+			setProperty('dad.stunned', false);
+			setProperty('boyfriend.stunned', false);
+		end
+	end
+end

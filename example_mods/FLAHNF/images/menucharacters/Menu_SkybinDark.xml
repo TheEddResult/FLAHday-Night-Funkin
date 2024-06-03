@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Menu_SkybinDark.png">
+<SubTexture name="Skybin idle0000" x="568" y="0" width="200" height="226" frameX="-184" frameY="-192" frameWidth="600" frameHeight="600" />
+<SubTexture name="Skybin idle0001" x="568" y="0" width="200" height="226" frameX="-184" frameY="-192" frameWidth="600" frameHeight="600" />
+<SubTexture name="Skybin idle0002" x="568" y="0" width="200" height="226" frameX="-184" frameY="-192" frameWidth="600" frameHeight="600" />
+<SubTexture name="Skybin idle0003" x="568" y="0" width="200" height="226" frameX="-184" frameY="-192" frameWidth="600" frameHeight="600" />
+<SubTexture name="Skybin idle0004" x="568" y="0" width="200" height="226" frameX="-184" frameY="-192" frameWidth="600" frameHeight="600" />
+<SubTexture name="Skybin idle0005" x="568" y="0" width="200" height="226" frameX="-184" frameY="-192" frameWidth="600" frameHeight="600" />
+<SubTexture name="Skybin idle0006" x="768" y="205" width="200" height="199" frameX="-184" frameY="-222" frameWidth="600" frameHeight="600" />
+<SubTexture name="Skybin idle0007" x="768" y="0" width="200" height="205" frameX="-184" frameY="-215" frameWidth="600" frameHeight="600" />
+<SubTexture name="Skybin idle0008" x="401" y="478" width="200" height="211" frameX="-184" frameY="-208" frameWidth="600" frameHeight="600" />
+<SubTexture name="Skybin idle0009" x="200" y="478" width="201" height="218" frameX="-184" frameY="-201" frameWidth="600" frameHeight="600" />
+<SubTexture name="Skybin idle0010" x="0" y="478" width="200" height="222" frameX="-184" frameY="-196" frameWidth="600" frameHeight="600" />
+<SubTexture name="Skybin idle0011" x="568" y="226" width="200" height="225" frameX="-184" frameY="-193" frameWidth="600" frameHeight="600" />
+<SubTexture name="Skybin idle0012" x="568" y="0" width="200" height="226" frameX="-184" frameY="-192" frameWidth="600" frameHeight="600" />
+<SubTexture name="Skybin up0000" x="568" y="0" width="200" height="226" frameX="-184" frameY="-192" frameWidth="600" frameHeight="600" />
+<SubTexture name="Skybin up0001" x="367" y="240" width="184" height="234" frameX="-201" frameY="-184" frameWidth="600" frameHeight="600" />
+<SubTexture name="Skybin up0002" x="183" y="240" width="184" height="236" frameX="-201" frameY="-183" frameWidth="600" frameHeight="600" />
+<SubTexture name="Skybin up0003" x="0" y="240" width="183" height="238" frameX="-202" frameY="-183" frameWidth="600" frameHeight="600" />
+<SubTexture name="Skybin up0004" x="0" y="0" width="186" height="240" frameX="-199" frameY="-183" frameWidth="600" frameHeight="600" />
+<SubTexture name="Skybin up0005" x="186" y="0" width="189" height="240" frameX="-196" frameY="-183" frameWidth="600" frameHeight="600" />
+<SubTexture name="Skybin up0006" x="375" y="0" width="193" height="240" frameX="-192" frameY="-183" frameWidth="600" frameHeight="600" />
+<SubTexture name="Skybin up0007" x="375" y="0" width="193" height="240" frameX="-192" frameY="-183" frameWidth="600" frameHeight="600" />
+<SubTexture name="Skybin up0008" x="375" y="0" width="193" height="240" frameX="-192" frameY="-183" frameWidth="600" frameHeight="600" />
+<SubTexture name="Skybin up0009" x="375" y="0" width="193" height="240" frameX="-192" frameY="-183" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

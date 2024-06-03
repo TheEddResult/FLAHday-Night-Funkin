@@ -1,0 +1,157 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				33,
+				128
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "stan idle"
+		},
+		{
+			"offsets": [
+				38,
+				126
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "stan down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				128
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "stan left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				127
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "stan up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				128
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "stan right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				38,
+				126
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "stan miss down"
+		},
+		{
+			"offsets": [
+				38,
+				128
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "stan miss right"
+		},
+		{
+			"offsets": [
+				30,
+				128
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "stan miss left"
+		},
+		{
+			"offsets": [
+				38,
+				127
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "stan miss up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				160
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "stan firstDeath",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				40,
+				160
+			],
+			"anim": "deathLoop",
+			"fps": 12,
+			"name": "stan deathLoop",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				40,
+				160
+			],
+			"anim": "deathConfirm",
+			"fps": 4,
+			"name": "stan deathConfirm",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/stan",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "stan",
+	"flip_x": true,
+	"healthbar_colors": [
+		81,
+		50,
+		35
+	],
+	"camera_position": [
+		-200,
+		-400
+	],
+	"sing_duration": 6.1,
+	"scale": 2,
+	"_editor_isPlayer": false
+}

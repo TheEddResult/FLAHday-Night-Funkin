@@ -1,0 +1,116 @@
+{
+	"song": {
+		"events": [
+			[
+				6428.57142857143,
+				[
+					[
+						"playsound",
+						"Mid_Song_Dialogue_Falling-FLAHt",
+						"1"
+					]
+				]
+			],
+			[
+				6696.42857142857,
+				[
+					[
+						"lyrics",
+						"* The",
+						"ffffff"
+					]
+				]
+			],
+			[
+				6863.83928571428,
+				[
+					[
+						"lyrics",
+						"* The hell?",
+						"ffffff"
+					]
+				]
+			],
+			[
+				8303.57142857143,
+				[
+					[
+						"lyrics",
+						"* What",
+						"ffffff"
+					]
+				]
+			],
+			[
+				8370.53571428571,
+				[
+					[
+						"lyrics",
+						"* What do",
+						"ffffff"
+					]
+				]
+			],
+			[
+				8437.5,
+				[
+					[
+						"lyrics",
+						"* What do you",
+						"ffffff"
+					]
+				]
+			],
+			[
+				8504.46428571428,
+				[
+					[
+						"lyrics",
+						"* What do you want",
+						"ffffff"
+					]
+				]
+			],
+			[
+				8638.39285714286,
+				[
+					[
+						"lyrics",
+						"* What do you want me",
+						"ffffff"
+					]
+				]
+			],
+			[
+				8705.35714285714,
+				[
+					[
+						"lyrics",
+						"* What do you want me to",
+						"ffffff"
+					]
+				]
+			],
+			[
+				8839.28571428571,
+				[
+					[
+						"lyrics",
+						"* What do you want me to do?",
+						"ffffff"
+					]
+				]
+			],
+			[
+				10178.5714285714,
+				[
+					[
+						"lyrics",
+						"",
+						""
+					]
+				]
+			]
+		]
+	}
+}

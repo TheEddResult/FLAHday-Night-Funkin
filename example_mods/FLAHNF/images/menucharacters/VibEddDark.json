@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "VibEdd up",
+	"idle_anim": "VibEdd idle",
+	"position": [
+		165,
+		25
+	],
+	"scale": 1,
+	"image": "Menu_VibEddDark"
+}

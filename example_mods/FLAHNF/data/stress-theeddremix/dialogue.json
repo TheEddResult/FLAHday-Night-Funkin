@@ -1,0 +1,148 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Edd_M",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Edd_E",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "* Guess who forgot to add dialogue here, haha..!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Your mom?"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "Edd_S",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*SHUT THE FUCK UP"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Anyways, you up for a real challenge?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Edd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What kind of challenge?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "We swap sides."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Edd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "* and that's supposed to be a challenge?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Being on my side means you'll be someone else's puppet, i.e. the..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "*censored*"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "The fuck happened there?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Edd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "* You're not supposed to break the fourth wall that hard."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "right"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Edd_E",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*...Just start the song."
+		}
+	]
+}

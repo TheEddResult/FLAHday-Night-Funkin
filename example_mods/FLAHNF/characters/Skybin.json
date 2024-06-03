@@ -1,0 +1,190 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-320,
+				-320
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Skybin idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-320,
+				-320
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Skybin left",
+			"indices": [
+				3,
+				4,
+				5,
+				4,
+				3,
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-320,
+				-320
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Skybin left",
+			"indices": [
+				0,
+				1,
+				2,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-320,
+				-320
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "Skybin down",
+			"indices": [
+				0,
+				1,
+				5,
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-321,
+				-320
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Skybin down",
+			"indices": [
+				2,
+				3,
+				4,
+				3,
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-320,
+				-320
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Skybin up",
+			"indices": [
+				0,
+				1,
+				2,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"offsets": [
+				-320,
+				-320
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				4,
+				5,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1,
+				0
+			],
+			"name": "Skybin right"
+		},
+		{
+			"offsets": [
+				-320,
+				-320
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				7,
+				8,
+				9
+			],
+			"name": "Skybin right"
+		},
+		{
+			"offsets": [
+				-320,
+				-320
+			],
+			"indices": [
+				3,
+				4,
+				5,
+				4,
+				3,
+				2,
+				0
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Skybin up"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/Skybin",
+	"position": [
+		-380,
+		-90
+	],
+	"healthicon": "sky",
+	"flip_x": false,
+	"healthbar_colors": [
+		234,
+		212,
+		170
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 1.4,
+	"scale": 2,
+	"_editor_isPlayer": false
+}

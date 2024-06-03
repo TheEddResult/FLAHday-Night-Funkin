@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-8
+			],
+			"anim": "Ugh",
+			"fps": 24,
+			"name": "TANKMAN UGH",
+			"indices": []
+		},
+		{
+			"offsets": [
+				97,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Tankman Note Left0"
+		},
+		{
+			"offsets": [
+				102,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Tankman Note Left MISS"
+		},
+		{
+			"offsets": [
+				-31,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Tankman Right Note0"
+		},
+		{
+			"offsets": [
+				-18,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Tankman Right Note MISS0"
+		},
+		{
+			"offsets": [
+				24,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Tankman UP note0"
+		},
+		{
+			"offsets": [
+				24,
+				49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Tankman UP note MISS0"
+		},
+		{
+			"offsets": [
+				78,
+				-109
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Tankman DOWN note0"
+		},
+		{
+			"offsets": [
+				78,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Tankman DOWN note MISS0"
+		},
+		{
+			"offsets": [
+				-14,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "TANKMAN UGH"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Tankman Idle Dance"
+		},
+		{
+			"offsets": [
+				97,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "taunt",
+			"indices": [],
+			"name": "PRETTY GOOD tankman"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				97,
+				17
+			],
+			"anim": "heh",
+			"fps": 24,
+			"name": "PRETTY GOOD tankman",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tankman",
+	"position": [
+		150,
+		200
+	],
+	"healthicon": "tankman",
+	"flip_x": true,
+	"healthbar_colors": [
+		20,
+		20,
+		20
+	],
+	"camera_position": [
+		100,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

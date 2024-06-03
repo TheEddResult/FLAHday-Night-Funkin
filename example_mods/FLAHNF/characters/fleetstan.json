@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				128
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "fleetstan idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				128
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "fleetstan left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				128
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "fleetstan down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				128
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "fleetstan up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				128
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "fleetstan right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/fleetstan",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "fleetstan",
+	"flip_x": true,
+	"healthbar_colors": [
+		82,
+		51,
+		35
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 2,
+	"_editor_isPlayer": false
+}

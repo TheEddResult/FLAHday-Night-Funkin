@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "Skybin up",
+	"idle_anim": "Skybin idle",
+	"position": [
+		136,
+		26
+	],
+	"scale": 1,
+	"image": "Menu_SkybinDark"
+}

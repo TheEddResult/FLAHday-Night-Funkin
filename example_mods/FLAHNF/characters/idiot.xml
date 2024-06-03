@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="idiot.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="idiot0000" x="502" y="0" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0001" x="0" y="389" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0002" x="0" y="0" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0003" x="1004" y="389" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0004" x="1004" y="389" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0005" x="1004" y="389" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0006" x="1004" y="389" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0007" x="1004" y="389" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0008" x="1004" y="389" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0009" x="1004" y="389" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0010" x="1004" y="389" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0011" x="1004" y="389" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0012" x="1004" y="389" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0013" x="1004" y="389" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0014" x="1004" y="389" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0015" x="1004" y="389" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0016" x="1004" y="389" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0017" x="1004" y="389" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0018" x="1004" y="389" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0019" x="1004" y="389" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0020" x="1004" y="389" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0021" x="1004" y="389" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0022" x="502" y="389" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0023" x="1004" y="0" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0024" x="502" y="778" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0025" x="502" y="778" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0026" x="502" y="778" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0027" x="502" y="778" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0028" x="502" y="778" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0029" x="502" y="778" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0030" x="502" y="778" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0031" x="502" y="778" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0032" x="502" y="778" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0033" x="502" y="778" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0034" x="502" y="778" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0035" x="502" y="778" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0036" x="502" y="778" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0037" x="502" y="778" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0038" x="0" y="778" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0039" x="1004" y="778" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0040" x="1004" y="778" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0041" x="1004" y="778" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0042" x="1004" y="778" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0043" x="1004" y="778" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0044" x="1004" y="778" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0045" x="1004" y="778" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0046" x="1004" y="778" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0047" x="1004" y="778" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0048" x="1004" y="778" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0049" x="1004" y="778" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0050" x="1004" y="778" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+	<SubTexture name="idiot0051" x="1004" y="778" width="502" height="389" frameX="2" frameY="2" frameWidth="498" frameHeight="385"/>
+</TextureAtlas>

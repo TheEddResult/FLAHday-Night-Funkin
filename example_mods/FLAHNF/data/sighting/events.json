@@ -1,0 +1,306 @@
+{
+	"song": {
+		"events": [
+			[
+				4645.16129032258,
+				[
+					[
+						"Set Property",
+						"forest.alpha",
+						"0"
+					]
+				]
+			],
+			[
+				4870.96774193548,
+				[
+					[
+						"Set Property",
+						"forest.alpha",
+						"1"
+					]
+				]
+			],
+			[
+				5129.03225806452,
+				[
+					[
+						"Set Property",
+						"forest.alpha",
+						"0"
+					]
+				]
+			],
+			[
+				5258.06451612903,
+				[
+					[
+						"Set Property",
+						"forest.alpha",
+						"1"
+					]
+				]
+			],
+			[
+				5612.90322580645,
+				[
+					[
+						"Set Property",
+						"forest.alpha",
+						"0"
+					]
+				]
+			],
+			[
+				5741.93548387097,
+				[
+					[
+						"Set Property",
+						"forest.alpha",
+						"1"
+					]
+				]
+			],
+			[
+				6000,
+				[
+					[
+						"Set Property",
+						"forest.alpha",
+						"0"
+					]
+				]
+			],
+			[
+				6032.25806451613,
+				[
+					[
+						"Set Property",
+						"forest.alpha",
+						"1"
+					]
+				]
+			],
+			[
+				6064.51612903226,
+				[
+					[
+						"Set Property",
+						"forest.alpha",
+						"0"
+					]
+				]
+			],
+			[
+				6096.77419354839,
+				[
+					[
+						"Set Property",
+						"forest.alpha",
+						"1"
+					]
+				]
+			],
+			[
+				6129.03225806452,
+				[
+					[
+						"Set Property",
+						"forest.alpha",
+						"0"
+					]
+				]
+			],
+			[
+				6161.29032258065,
+				[
+					[
+						"Set Property",
+						"forest.alpha",
+						"1"
+					]
+				]
+			],
+			[
+				6193.54838709677,
+				[
+					[
+						"Set Property",
+						"forest.alpha",
+						"0"
+					]
+				]
+			],
+			[
+				15096.7741935484,
+				[
+					[
+						"Random Image",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				15290.3225806452,
+				[
+					[
+						"Random Image",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				15483.8709677419,
+				[
+					[
+						"Random Image",
+						"nope",
+						"2"
+					]
+				]
+			],
+			[
+				18580.6451612903,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				35444.5504867341,
+				[
+					[
+						"Random Image",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				35533.3078831838,
+				[
+					[
+						"Random Image",
+						"4",
+						"3"
+					]
+				]
+			],
+			[
+				35622.0652796335,
+				[
+					[
+						"Random Image",
+						"nope",
+						"4"
+					]
+				]
+			],
+			[
+				64024.4321435389,
+				[
+					[
+						"Change Character",
+						"dad",
+						"funnysad"
+					],
+					[
+						"Set Property",
+						"camGame.alpha",
+						"1"
+					],
+					[
+						"Set Property",
+						"boyfriend.alpha",
+						"0"
+					]
+				]
+			],
+			[
+				75385.378889101,
+				[
+					[
+						"Change Character",
+						"dad",
+						"funnybrine"
+					],
+					[
+						"Set Property",
+						"camGame.alpha",
+						"1"
+					],
+					[
+						"Set Property",
+						"boyfriend.alpha",
+						"1"
+					]
+				]
+			],
+			[
+				103610.230960107,
+				[
+					[
+						"Random Image",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				103698.988356557,
+				[
+					[
+						"Random Image",
+						"6",
+						"5"
+					]
+				]
+			],
+			[
+				103787.745753006,
+				[
+					[
+						"Random Image",
+						"nope",
+						"6"
+					]
+				]
+			],
+			[
+				109379.461729338,
+				[
+					[
+						"Random Image",
+						"7",
+						""
+					]
+				]
+			],
+			[
+				110000.763504486,
+				[
+					[
+						"Random Image",
+						"nope",
+						"7"
+					]
+				]
+			],
+			[
+				122249.284214545,
+				[
+					[
+						"Set Property",
+						"forest.alpha",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}

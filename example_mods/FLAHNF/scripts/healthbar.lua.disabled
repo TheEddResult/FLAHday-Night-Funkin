@@ -1,0 +1,4 @@
+function onCreatePost()
+    setObjectCamera("healthBar", "camHUD")
+    setObjectCamera("timeBar", "camHUD")
+end

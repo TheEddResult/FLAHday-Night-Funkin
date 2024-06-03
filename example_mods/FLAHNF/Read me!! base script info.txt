@@ -1,0 +1,3 @@
+when you're done editing the taunts in the base script
+
+Put it in the characters folder and rename it to your character's json file name

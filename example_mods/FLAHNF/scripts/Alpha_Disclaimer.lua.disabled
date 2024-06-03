@@ -1,0 +1,7 @@
+function onCreate()
+makeLuaText('Txt',"FLAHday Night Funkin': very VERY early Alpha. Everything is subject to change.", 0, 250, 0);
+    setTextSize('Txt', 15);
+    setTextBorder('Txt', 1, '000000');
+    addLuaText('Txt');
+    setObjectCamera('Txt', 'other')
+    end
